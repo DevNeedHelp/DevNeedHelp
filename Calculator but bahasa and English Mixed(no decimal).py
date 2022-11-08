@@ -24,7 +24,7 @@ if calculator =='1':
     hasil= bilangan_1+bilangan_2
     print("Result:",(bilangan_1+bilangan_2))
 
-elif calulator =='2':
+elif calculator =='2':
     hasil = bilangan_1-bilangan_2
     print("Result:",(bilangan_1-bilangan_2))
 
